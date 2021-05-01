@@ -20,9 +20,8 @@ Go here -> `https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-a
 
 -----
 
-# Build ?
+# Build (optionnal)
 
-* You can build with [nexe](https://github.com/nexe/nexe). 
 * Install [nexe](https://github.com/nexe/nexe/releases/tag/v3.3.3).
 * Run in administrator command prompt `npm i -g nexe`
 * Go to your path of NatSniper
