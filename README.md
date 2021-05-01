@@ -34,7 +34,7 @@ If you get these error :
 # Discord Terms of Services
 
 Before using this tool read the [tos of discord](https://discord.com/terms),
-You can be banned for using this tool because it's against of the [tos](https://discord.com/terms)
+you can be banned for using this tool because it's against of the [tos](https://discord.com/terms)
 
 
 # Enjoy and star it :) Nats#1987
