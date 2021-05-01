@@ -1,5 +1,5 @@
 # NatSniper
-🌙 - Really good and very fast sniper, less than 1s.
+🌙 - Really good and very fast nitro sniper, less than 1s.
 
 -----
 
@@ -29,6 +29,7 @@ Go here -> `https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-a
 * Run `nexe index.js -o NatSniper --build` and wait ~1m30,
 * Start `NatSniper.exe`
 
+-----
 
 # Cannot read property 'id' of undefined 
 
