@@ -20,7 +20,7 @@ Go here -> `https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-a
 
 -----
 
-# -Build ?
+# Build ?
 
 * You can build with [nexe](https://github.com/nexe/nexe). 
 * Install [nexe](https://github.com/nexe/nexe/releases/tag/v3.3.3).
