@@ -51,3 +51,5 @@ you can be banned for using this, because it's against of the [tos](https://disc
 -----
 
 # Enjoy and star it :) Nats#1987
+
+(Some parts of the code don't come from me)
