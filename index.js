@@ -9,7 +9,7 @@ let token = config.token;
 let count = 0;
 
 bot.on("ready", () => {
-    console.log(`Hey ${chalk.magenta(bot.user.tag)}, happy to see you !\nLets start the sniper :)`);
+    console.log(`Hey ${bot.user.tag}, happy to see you !\nLets start the sniper :)`);
     title(`Hey ${chalk.magenta(bot.user.tag)}... Waiting for a gift`);
     if(config.presence !== true) return;
 
