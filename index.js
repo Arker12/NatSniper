@@ -25,7 +25,7 @@ bot.on("ready", () => {
 					large_image : "natsniper",
 					large_text : "NatSniper" 
 				},
-			buttons : [{label : "Github Repo" , url : "https://imgur.com/a/riItV2q"}]
+			buttons : [{label : "Github Repo" , url : "https://github.com/Nats-uuu/NatSniper"}]
 		}
 	})
 })
@@ -33,7 +33,7 @@ client.login({ clientId : "837842013088645160" });
 
       }
     catch(err) {
-        console.log(`I couldn't set your rich presence... \nCheck the repo if there is any problem`)
+        console.log(`I couldn't set your rich presence... \nMake an issue if there is any problem`)
     }
 });
 
