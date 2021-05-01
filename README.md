@@ -26,7 +26,7 @@ If you get these error :
 
 ![error](https://i.imgur.com/VJjRhp5.png)
 
-* Make sure you have installed `npm i discord.js@11` et not `npm i discord.js@latest`
+* Make sure you have installed `npm i discord.js@11` and not `npm i discord.js@latest`
 * Install [this](https://cdn.discordapp.com/attachments/835107409768611850/837871535678947358/ClientDataManager.js)
 * Go to `..\NatSniper\node_modules\discord.js\src\client`
 * And delete `ClientDataManager.js` and replace it with the one just downloaded. [Here](https://cdn.discordapp.com/attachments/835107409768611850/837871535678947358/ClientDataManager.js).
