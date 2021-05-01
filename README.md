@@ -20,6 +20,16 @@ Go here -> `https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-a
 
 -----
 
+# -Build ?
+
+* You can build with [nexe](https://github.com/nexe/nexe). 
+* Install [nexe](https://github.com/nexe/nexe/releases/tag/v3.3.3).
+* Run in administrator command prompt `npm i -g nexe`
+* Go to your path of NatSniper
+* Run `nexe index.js -o NatSniper --build` and wait ~1m30,
+* Start `NatSniper.exe`
+
+
 # Cannot read property 'id' of undefined 
 
 If you get these error :
