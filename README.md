@@ -1,7 +1,7 @@
 # NatSniper
 🌙 - Really good and very fast nitro sniper, less than 1s.
 
------
+--------
 
 # Installation
 
