@@ -2,6 +2,13 @@
 🌙 - Really good and very fast nitro sniper, less than 1s.
 
 --------
+# Video tutorial 
+
+https://www.youtube.com/watch?v=3qMtPW2lBMA
+
+[![NatSniper](https://img.youtube.com/vi/3qMtPW2lBMA/0.jpg)](https://www.youtube.com/watch?v=3qMtPW2lBMA)
+
+-----
 
 # Installation
 
