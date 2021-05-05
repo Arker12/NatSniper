@@ -45,7 +45,7 @@ bot.on("message", message => {
         let code;
         if (message.channel.type != 'dm' && message.channel.type != 'group') {
             // Nitro Sniper
-            if (message.content.includes("discord.gift") || message.content.includes("discordapp.com/gifts/") || message.content.includes("discord.com/gifts/) {
+            if (message.content.includes("discord.gift") || message.content.includes("discordapp.com/gifts/") || message.content.includes("discord.com/gifts/") {
                 var start = new Date();
                 console.log(`[${chalk.bgMagenta("GIFT")}] - [${chalk.cyan(message.guild.name)}] - ${chalk.blue(message.author.tag)}: ${chalk.underline(message.content)}`);
                 if (message.content.includes("discord.gift")) {
