@@ -4,7 +4,6 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const title = require('console-title');
 const notifier = require('node-notifier');
-var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 const config = require('./config.json');
 const webhookClient = new Discord.WebhookClient(config.webhookID, config.webhookToken);
 let token = config.token;
@@ -23,7 +22,7 @@ bot.on("ready", () => {
 			client.request('SET_ACTIVITY', {
 				pid: process.pid,
 				activity : {
-					details : "s/o Nats#1987",
+					details : "s/o Nats#1337",
 					assets : {
 					large_image : "natsniper",
 					large_text : "NatSniper" 
